@@ -76,7 +76,28 @@ The **10% Club** is a faith-driven economic restoration initiative that allows m
 
 ---
 
-## **7. Final Commitment**
+## **7. Supporting & Educational Files**
+- **mission-vision.md** – Outlines the guiding principles, faith-aligned mission, and long-term vision.
+- **governance-structure.md** – Defines the leadership, ethical oversight, and accountability framework.
+- **membership-benefits.md** – Details donor incentives, loyalty rewards, and community impact.
+- **referral-network.md** – Describes how places of worship refer individuals for support and crisis intervention.
+- **contribution-process.md** – Explains how donations are processed, tracked, and distributed.
+- **blockchain-transparency.md** – Technical details on smart contracts and tracking mechanisms.
+- **fund-allocation-policy.md** – Defines how funds are allocated, managed, and audited.
+- **impact-reports/**
+  - **2025-quarter-1-report.md** – Quarterly transparency report tracking fund usage.
+  - **2025-quarter-2-report.md**
+  - **2025-quarter-3-report.md**
+  - **2025-quarter-4-report.md**
+- **case-studies/**
+  - **recovery-success-1.md** – Case study on an individual or family supported by the 10% Club.
+  - **community-impact-1.md** – Case study on a faith-based organization benefiting from the program.
+- **terms-conditions.md** – Legal and compliance documentation governing the 10% Club.
+- **faq.md** – Frequently Asked Questions and responses for donors, members, and faith-based partners.
+
+---
+
+## **8. Final Commitment**
 **Reference:** Malachi 3:10 – *“Bring the whole tithe into the storehouse, that there may be food in my house. Test me in this, says THE ONE Almighty, and see if I will not throw open the floodgates of heaven and pour out so much blessing that there will not be room enough to store it.”*
 
 By joining the **10% Club**, members actively participate in **faith-driven economic empowerment**, ensuring that **generosity, transparency, and community restoration remain at the heart of structured giving**. Every contribution is **ethically managed, tracked, and directed toward measurable impact**, helping both the **giver and the recipient experience true financial restoration**.
