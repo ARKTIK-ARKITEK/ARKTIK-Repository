@@ -43,16 +43,23 @@ ARKTIK’s Business Partnership framework is designed to foster **faith-aligned,
 
 ---
 
-## **4. Governance & Compliance**
-### **4.1 Ethical Oversight & Compliance**
-- Ensuring all partnerships **adhere to ARKTIK’s governance and ethical policies**.
-- Conducting **due diligence and accountability reviews** on all prospective partners.
-- Establishing a **faith-based business council** to oversee partnership development.
+## **4. The 10% Club: Faith-Based Giving with Blockchain Transparency**
+### **4.1 Purpose & Commitment**
+The **10% Club** is an initiative available to anyone who desires to honor the commandment of **setting aside 10% for the vulnerable and those in need**. This initiative ensures that giving is **transparent, traceable, and impactful**, with **blockchain-backed tracking** to maintain financial accountability.
 
-### **4.2 Financial Integrity & Transparency**
-- Maintaining **clear financial records** and **full transparency in all partnership transactions**.
-- Implementing **profit-sharing and reinvestment strategies** that benefit both partners and communities.
-- Ensuring businesses **prioritize sustainability and long-term economic impact**.
+**Reference:** Proverbs 19:17 – *“Whoever is generous to the poor lends to THE ONE, and He will repay him for his deed.”*
+
+### **4.2 How It Works**
+- **Donors contribute 10% of their income** to the 10% Club fund.
+- **Blockchain tracking ensures full transparency**, allowing members to see exactly how their contributions are used.
+- **Funds are distributed to verified projects, families, and individuals in need** while maintaining an ethical, faith-driven framework.
+- **Returns from donations are paid directly to the donor’s original place of worship** in their name, ensuring **twice the impact**—both for the recipient and the donor’s faith community.
+- **Ensures financial stewardship, community empowerment, and faith-aligned economic restoration.**
+
+### **4.3 Governance & Oversight**
+- The **ARKTIK 10% Club Oversight Board** monitors and verifies all transactions.
+- Funds are **secured in ARKTIK’s transparent blockchain ledger**, ensuring no misallocation or exploitation.
+- **Quarterly impact reports** are provided to donors and places of worship to showcase the real-world impact of contributions.
 
 ---
 
@@ -61,6 +68,7 @@ ARKTIK’s Business Partnership framework is designed to foster **faith-aligned,
 - Establish **partnership selection criteria and ethical review board**.
 - Form **strategic alliances with key corporate, small business, and nonprofit partners**.
 - Launch **ARKTIK Business Development Accelerator** to support faith-aligned entrepreneurs.
+- Deploy **10% Club blockchain tracking and financial transparency system**.
 
 ### **5.2 Mid-Term Goals (3-7 Years)**
 - Expand ARKTIK’s **business partnerships globally**, ensuring sustainable and scalable growth.
@@ -71,12 +79,12 @@ ARKTIK’s Business Partnership framework is designed to foster **faith-aligned,
 - Position ARKTIK as a **global leader in faith-based business innovation and economic governance**.
 - Establish **self-sustaining business communities and economic hubs**.
 - Integrate **ARKTIK’s business philosophy into mainstream financial and corporate frameworks**.
+- Scale **10% Club impact programs**, ensuring financial independence for vulnerable individuals worldwide.
 
 ---
 
 ## **6. Final Commitment**
 **Reference:** Proverbs 16:3 – *“Commit your work to THE ONE, and your plans will be established.”*
 
-ARKTIK’s Business Partnerships ensure that **economic growth, ethical entrepreneurship, and social impact** remain central to all collaborations. Through **strategic alliances, financial integrity, and faith-aligned business development**, ARKTIK will create **a self-sustaining economic ecosystem** that empowers businesses, communities, and future generations.
-
+ARKTIK’s Business Partnerships ensure that **economic growth, ethical entrepreneurship, and social impact** remain central to all collaborations. Through **strategic alliances, financial integrity, and faith-aligned business development**, ARKTIK will create **a self-sustaining economic ecosystem** that empowers businesses, communities, and future generations. The **10% Club** stands as a beacon of **faith-driven economic restoration**, ensuring that generosity, stewardship, and accountability remain at the forefront of giving.
 
