@@ -7,7 +7,7 @@ ARKTIK offers structured membership tiers designed for different levels of engag
 
 | **Membership Tier**       | **General Member** (Free) | **Event VIP Member** | **Merch Exclusive Member** | **A"LOT Stewardship Member** | **ARKTIK Education Member** | **ARKTIK Intelligence Member** | **ARKTIK Premium Member** |
 |--------------------------|------------------|-----------------|--------------------|----------------------|------------------|---------------------|-------------------|
-| **Price (Monthly)** | Free | $10 | $15 | $20 | $25 | $30 | $50 |
+| **Fees (Monthly)** | Free | $10 | $15 | $20 | $25 | $30 | $50 |
 | **ARKTIK News & Updates** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | **Access to Blog & Public Discussions** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | **Invitations to Select Events** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
