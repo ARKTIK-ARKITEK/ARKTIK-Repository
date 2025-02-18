@@ -30,11 +30,17 @@ ARKTIK Lifestyle is the place where **fun meets purpose,** where **luxury meets 
 Why settle for digital babysitters when you can introduce your children to an **exclusive, real-world experience** designed for growth, discipline, and fun? The ARKTIK Lifestyle isn’t just for individuals—it’s built for families who want more.
 
 ✅ **Heritage Skate Nights** – A premium, faith-based skating experience with nostalgic music and a wholesome environment.
+
 ✅ **Faith & Family Bowling Nights** – Relaxed yet competitive, designed to bring families together in fun and faith.
+
 ✅ **ARKTIK Youth Lock-In** – An overnight faith and fitness experience, reinforcing discipline, mentorship, and growth.
+
 ✅ **ARKTIK Park Days** – Outdoor fellowship and engaging activities that replace screen time with real memories.
+
 ✅ **Elite Sports & Fitness Training** – Rock climbing, MMA, and 北氷海 (Kita Hyōkai) training to challenge and strengthen.
+
 ✅ **Alkaline Living for Families** – Nutrition, self-care, and holistic health workshops to set a strong foundation.
+
 ✅ **ARKTIK Academy** – A homeschooling model with elite structure, personalized learning, and faith-driven guidance.
 
 The VIP Parent Package ensures that families don’t just **pass the time**—they **build a legacy.**
@@ -44,10 +50,15 @@ The VIP Parent Package ensures that families don’t just **pass the time**—th
 ## **Adventure, Mastery, and Legacy**
 
 💠 **ARKTIK American Ninja Night** – Elite fitness meets faith-driven endurance.
+
 💠 **Night Owls** – Midnight rock climbing and deep thought reset for professionals and seekers.
+
 💠 **Seasonal Ice Skating Gatherings** – Winter magic infused with the spirit of THE ONE.
+
 💠 **ARKTIK Rock Climbing Academy** – Training for mind, body, and spirit.
+
 💠 **The Council of Thought** – Engage in the highest-level discussions on scripture, science, and philosophy.
+
 💠 **WeAreARKTIK & YouShouldWearARKTIKtoo** – A brand and identity that signifies alignment with excellence.
 
 ARKTIK Lifestyle isn’t a hobby. **It’s your new reality.**
