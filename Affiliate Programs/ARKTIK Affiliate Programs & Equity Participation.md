@@ -45,11 +45,11 @@ ARKTIK Affiliates **get rewarded for growing the movement** through **sales, ref
 
 ## **Why Join?**
 
-🔹 **For the Hustlers Who’ve Changed Their Lives** – This program is built **for those who used to sell anything, anywhere** but now **sell with purpose and faith.**
-
 🔹 **For The Hungry Professionals** – If you’re **ambitious, competitive, and looking for real ownership,** this program is for you.
 
 🔹 **For Those Who Want More** – ARKTIK **offers a legacy**, not just a commission check. **You don’t just work for ARKTIK—you become part of ARKTIK.**
+
+🔹 **For the Hustlers Who’ve Changed Their Lives** – This program is built **for those who used to sell anything, anywhere** but now **sell with purpose and faith. (To be ARKTIK is to welcome reconciliation, If you have changed your life, We Support You, Welcome to The Berg)**
 
 ---
 
