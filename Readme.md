@@ -10,7 +10,7 @@ This repository is the foundation for all **ARKTIK Ventures, Events, A’LOT ini
 
 ## **📌 What This Repository Includes**
 
-### ** ARKTIK Capital DeFi | Hybrid Financial System**
+### **ARKTIK Capital DeFi | Hybrid Financial System**
 - **Event Ticket Sales & Treasury Management** (Processed via Squarespace & Stripe, held in stablecoin, with regulated fiat payouts)
 - **Affiliate Programs & Equity Participation** (Influencers, Holistic Providers, Gym Owners, Landscapers, Co-ops, HOAs)
 - **Automated Tax & Compliance Tracking** (Ensuring all digital assets are accounted for before conversion)
